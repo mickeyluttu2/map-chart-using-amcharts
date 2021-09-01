@@ -1,4 +1,21 @@
-# Sample14
+# Map chart using amcharts
+
+
+![5](https://user-images.githubusercontent.com/56402450/131614050-b7360ab6-1257-4b5d-a658-759cac2905ed.png)
+
+
+Install --
+
+npm i @amcharts/amcharts4 --save
+
+npm i @amcharts/amcharts-geodata --save
+
+npm i @types/d3-geo --save
+
+npmi i d3-geo --save
+
+
+## Sample14
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
